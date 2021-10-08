@@ -29,6 +29,8 @@ docker run --name redis -p 6379:6379 -d -t redis:alpine
 
 ## Executando
 
+Executar a imagem do redis no docker
+
 Criar as váriaveis de ambiente utilizando como base o arquivo .env.example:
 
 Executar a aplicação no modo desenvolvedor:
